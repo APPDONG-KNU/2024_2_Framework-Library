@@ -7,9 +7,9 @@
 
 ## 👨‍💻 스터디원
 
-| <img src="https://github.com/ijh1298.png" width="100px"> | <img src="https://github.com/jisuSong0625.png" width="100px"> | <img src="https://github.com/leeseonghow.png" width="100px"> |
+| <img src="https://github.com/ijh1298.png" width="100px"> | <img src="https://github.com/jisuSong0625.png" width="100px"> | <img src="https://github.com/lsh4323.png" width="100px"> |
 |:----:|:----:|:----:|
-| [임준혁](https://github.com/JHY3066) | [송지수](https://github.com/jisuSong0625) | [이성호](https://github.com/leeseonghow) | 
+| [임준혁](https://github.com/JHY3066) | [송지수](https://github.com/jisuSong0625) | [이성호](https://github.com/lsh4323) | 
 
 ## ⏰ 모임시간
 

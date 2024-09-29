@@ -5,7 +5,7 @@
 ## 🐣 팀소개
 **프라스** (프레임워크 & 라이브러리 스터디)
 
-## 👨‍💻 스터디원ijh1298/jisuSong0625/leeseonghow
+## 👨‍💻 스터디원
 
 | <img src="https://github.com/ijh1298.png" width="100px"> | <img src="https://github.com/jisuSong0625.png" width="100px"> | <img src="https://github.com/leeseonghow.png" width="100px"> |
 |:----:|:----:|:----:|

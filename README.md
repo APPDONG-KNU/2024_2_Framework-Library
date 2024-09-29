@@ -7,7 +7,7 @@
 
 ## 👨‍💻 스터디원ijh1298/jisuSong0625/leeseonghow
 
-| [<img src="https://github.com/ijh1298.png" width="100px">] | [<img src="https://github.com/jisuSong0625.png" width="100px">] | [<img src="https://github.com/leeseonghow.png" width="100px">] |
+| <img src="https://github.com/ijh1298.png" width="100px"> | <img src="https://github.com/jisuSong0625.png" width="100px"> | <img src="https://github.com/leeseonghow.png" width="100px"> |
 |:----:|:----:|:----:|
 | [임준혁](https://github.com/ijh1298) | [송지수](https://github.com/jisuSong0625) | [이성호](https://github.com/leeseonghow) | 
 

@@ -5,16 +5,11 @@
 ## 🐣 팀소개
 **프라스** (프레임워크 & 라이브러리 스터디)
 
-## 👨‍💻 스터디원
+## 👨‍💻 스터디원ijh1298/jisuSong0625/leeseonghow
 
-| <img src="https://github.com/ijh1298.png" width="100px"> | <img src="https://github.com/jisuSong0625.png" width="100px"> | <img src="https://github.com/leeseonghow.png" width="100px"> |
-<<<<<<< HEAD
-|:--------------------------------------------------------:|:----:|:----:|
-|            [임준혁](https://github.com/ijh1298)             | [송지수](https://github.com/jisuSong0625) | [이성호](https://github.com/leeseonghow) | 
-=======
+| [<img src="https://github.com/ijh1298.png" width="100px">] | [<img src="https://github.com/jisuSong0625.png" width="100px">] | [<img src="https://github.com/leeseonghow.png" width="100px">] |
 |:----:|:----:|:----:|
 | [임준혁](https://github.com/ijh1298) | [송지수](https://github.com/jisuSong0625) | [이성호](https://github.com/leeseonghow) | 
->>>>>>> 11cc22305e803e09bf1214b4b48d5d2004c4499e
 
 ## ⏰ 모임시간
 

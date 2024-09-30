@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.week2app"
+    namespace = "com.example.week2composelayout"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.week2app"
+        applicationId = "com.example.week2composelayout"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -51,7 +51,6 @@ android {
 
 dependencies {
 
-    implementation("androidx.compose.material:material-icons-extended")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)

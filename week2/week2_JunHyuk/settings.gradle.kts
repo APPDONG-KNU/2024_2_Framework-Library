@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Week2App"
 include(":app")
 include(":week2composelayout")
+include(":week2composestate")

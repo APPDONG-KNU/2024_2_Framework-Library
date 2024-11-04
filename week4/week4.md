@@ -1,7 +1,8 @@
 # 데이터 클래스 만들기
 
 ## 1. 폴더
-![img1](./images/1.png)
+![1](https://github.com/user-attachments/assets/fa666f63-90b6-4dab-a946-b670d1e1b850)
+
 
 ## 2. 데이터 클래스 타입 만들기
 Affirmation.kt는 데이터 클래스 타입을 저장, Data class로 생성

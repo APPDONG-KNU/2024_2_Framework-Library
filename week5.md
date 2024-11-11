@@ -24,7 +24,7 @@ fun ReplyHomeScreen(
 ```
 isShowingHomepage 상태가 변경되면, Compose가 리컴포지션(recomposition)을 통해 화면을 다시 그려 새로운 상태에 맞는 화면이 조건에 따라 표시
 
-![0](./0.png)
+![0](https://github.com/user-attachments/assets/b388205e-5686-42bc-b1ee-f161ad90f7cd)
 
 상태변경을 이용한 화면전환은 뒤로가기를 지원하지 않기 때문에 따로 구현을 해야한다
 ```kotlin
@@ -45,7 +45,8 @@ fun ReplyDetailsScreen(
 
 중단점 : 반응형 앱 개발에서 특정 크기나 상태에 맞춰 레이아웃을 전환하도록 도와주는 기준값
 
-![q](1.PNG)
+![1](https://github.com/user-attachments/assets/8056b4cd-fa83-4c82-9c68-be3e9a3e987a)
+
 
 Columns : 화면에 콘텐츠를 최대 n개의 열에 배치
 
@@ -96,5 +97,6 @@ fun ReplyAppCompactPreview() {
     }
 }
 ```
-![3](./2.PNG)
+![2](https://github.com/user-attachments/assets/3a7dfd5a-1127-42d2-9ae0-72201a854b6d)
+
 
